@@ -66,6 +66,7 @@ td:hover {
 }
 
 td a {
+    font-size: 11pt;
     text-decoration: none;
     color: black;
 }
@@ -73,6 +74,7 @@ td a {
 td a:hover {
     color: white;
     font-weight: bold;
+    text-decoration: none;
 }
 
 td a:visited {
